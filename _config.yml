@@ -1,0 +1,5 @@
+# Le titre s'affiche en en-tête de chaque page. C'est LUI qui réglait le
+# problème d'origine : la politique de RDV s'affichait sous « wo-minute-support ».
+title: RDV
+description: Rendez-vous dictés — soutien et confidentialité
+lang: fr-CA
