@@ -8,7 +8,7 @@ RDV garde vos renseignements **sur votre appareil**. Pour comprendre ce que vous
 
 ## Dans le détail
 
-**Ce qui est gardé sur votre appareil.** Vos rendez-vous, le nom des personnes, vos notes et, si vous l'inscrivez, le **numéro de carte d'assurance maladie** sont enregistrés sur votre iPhone ou iPad. Nous, l'éditeur, n'y avons aucun accès. **Le numéro d'assurance maladie ne quitte jamais l'appareil.** Les prénoms, eux, accompagnent chaque dictée — voir « La dictée ».
+**Ce qui est gardé sur votre appareil.** Vos rendez-vous, le nom des personnes et vos notes sont enregistrés sur votre iPhone ou iPad. Nous, l'éditeur, n'y avons aucun accès. **RDV ne demande aucune donnée de santé** — ni numéro d'assurance maladie, ni diagnostic, ni dossier. Les prénoms, eux, accompagnent chaque dictée — voir « La dictée ».
 
 **Le calendrier.** Quand vous confirmez un rendez-vous, il est inscrit dans votre calendrier Apple, qui suit ensuite vos propres réglages (dont la synchronisation iCloud, si vous l'avez activée).
 
@@ -40,7 +40,7 @@ RDV keeps your information **on your device**. To understand what you dictate, t
 
 ## In detail
 
-**What is kept on your device.** Your appointments, the names of people, your notes and, if you enter it, the **health insurance card number** are stored on your iPhone or iPad. We, the publisher, have no access to them. **The health insurance number never leaves the device.** First names, however, travel with each dictation — see “Dictation”.
+**What is kept on your device.** Your appointments, the names of people and your notes are stored on your iPhone or iPad. We, the publisher, have no access to them. **RDV asks for no health data** — no health insurance number, no diagnosis, no record. First names, however, travel with each dictation — see “Dictation”.
 
 **The calendar.** When you confirm an appointment, it is added to your Apple Calendar, which then follows your own settings (including iCloud sync, if enabled).
 

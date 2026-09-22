@@ -56,9 +56,9 @@ achats*. Utile après un changement d'appareil.
 ## Vos données
 
 Tout est expliqué dans la [politique de confidentialité](/confidentialite).
-En bref : vos rendez-vous et vos personnes restent sur votre appareil, le
-numéro d'assurance maladie n'en sort jamais, et il n'y a ni publicité ni
-vente de données.
+En bref : vos rendez-vous et vos personnes restent sur votre appareil, RDV
+ne demande aucune donnée de santé, et il n'y a ni publicité ni vente de
+données.
 
 **Tout effacer.** Supprimer l'application efface les données qu'elle garde
 sur l'appareil. Les rendez-vous déjà inscrits dans votre calendrier Apple, eux,
@@ -122,8 +122,8 @@ purchases*. Useful after changing devices.
 ## Your data
 
 Everything is explained in the [privacy policy](/confidentialite). In short:
-your appointments and your people stay on your device, the health insurance
-number never leaves it, and there is no advertising and no sale of data.
+your appointments and your people stay on your device, RDV asks for no
+health data, and there is no advertising and no sale of data.
 
 **Erase everything.** Deleting the app erases the data it keeps on the
 device. Appointments already written to your Apple Calendar stay there —
