@@ -4,7 +4,7 @@
 
 ## En une phrase
 
-RDV garde vos renseignements **sur votre appareil**. Pour comprendre ce que vous dictez, le **texte** de votre dictée et les **prénoms** de vos personnes sont envoyés à un service qui ne les conserve pas. Aucune publicité, aucune vente de données.
+RDV garde vos renseignements **sur votre appareil**. Pour comprendre ce que vous dictez, le **texte** de votre dictée et les **prénoms** de vos personnes sont envoyés à notre service, qui n'en garde aucune copie ; le fournisseur du modèle les efface sous 30 jours. Aucune publicité, aucune vente de données.
 
 ## Dans le détail
 
@@ -12,7 +12,7 @@ RDV garde vos renseignements **sur votre appareil**. Pour comprendre ce que vous
 
 **Le calendrier.** Quand vous confirmez un rendez-vous, il est inscrit dans votre calendrier Apple, qui suit ensuite vos propres réglages (dont la synchronisation iCloud, si vous l'avez activée).
 
-**La dictée.** Votre voix est transcrite en texte par la reconnaissance vocale d'Apple. **Selon la langue et la connexion, Apple peut effectuer cette transcription sur ses serveurs plutôt que sur votre appareil ; RDV, de son côté, ne conserve aucun enregistrement audio.** Pour transformer la phrase en un rendez-vous (qui, quoi, quand, où), **le texte** de votre dictée **et les prénoms de vos personnes** sont envoyés à notre service intermédiaire (hébergé chez Cloudflare), qui fait appel au modèle d'intelligence artificielle Claude, d'Anthropic. Ce texte n'est **pas conservé** par notre service et, selon les conditions d'Anthropic pour son interface de programmation (Application Programming Interface, API), **n'est pas utilisé pour entraîner** ses modèles.
+**La dictée.** Votre voix est transcrite en texte par la reconnaissance vocale d'Apple. **Selon la langue et la connexion, Apple peut effectuer cette transcription sur ses serveurs plutôt que sur votre appareil ; RDV, de son côté, ne conserve aucun enregistrement audio.** Pour transformer la phrase en un rendez-vous (qui, quoi, quand, où), **le texte** de votre dictée **et les prénoms de vos personnes** sont envoyés à notre service intermédiaire (hébergé chez Cloudflare), qui fait appel au modèle d'intelligence artificielle Claude, d'Anthropic. Ce texte n'est **pas conservé** par notre service. Anthropic, de son côté, **l'efface de ses serveurs dans les 30 jours** — c'est sa durée de rétention standard, prévue pour détecter les usages abusifs — et, selon ses conditions pour son interface de programmation (Application Programming Interface, API), **ne s'en sert pas pour entraîner** ses modèles.
 
 **Le paiement.** L'abonnement facultatif est géré entièrement par Apple (achat intégré). Nous ne voyons jamais votre numéro de carte ; Apple nous indique seulement si un abonnement est actif.
 
@@ -36,7 +36,7 @@ Pour toute question au sujet de cette politique : **support@wominute.com**
 
 ## In one sentence
 
-RDV keeps your information **on your device**. To understand what you dictate, the **text** of your dictation and the **first names** of your people are sent to a service that does not retain them. No advertising, no sale of data.
+RDV keeps your information **on your device**. To understand what you dictate, the **text** of your dictation and the **first names** of your people are sent to our service, which keeps no copy; the model provider deletes them within 30 days. No advertising, no sale of data.
 
 ## In detail
 
@@ -44,7 +44,7 @@ RDV keeps your information **on your device**. To understand what you dictate, t
 
 **The calendar.** When you confirm an appointment, it is added to your Apple Calendar, which then follows your own settings (including iCloud sync, if enabled).
 
-**Dictation.** Your voice is transcribed to text by Apple's speech recognition. **Depending on the language and the connection, Apple may perform that transcription on its servers rather than on your device; RDV itself keeps no audio recording.** To turn the sentence into an appointment (who, what, when, where), **the text** of your dictation **and the first names of your people** are sent to our intermediary service (hosted on Cloudflare), which calls the Claude artificial-intelligence model by Anthropic. This text is **not retained** by our service and, under Anthropic's terms for its Application Programming Interface (API), is **not used to train** its models.
+**Dictation.** Your voice is transcribed to text by Apple's speech recognition. **Depending on the language and the connection, Apple may perform that transcription on its servers rather than on your device; RDV itself keeps no audio recording.** To turn the sentence into an appointment (who, what, when, where), **the text** of your dictation **and the first names of your people** are sent to our intermediary service (hosted on Cloudflare), which calls the Claude artificial-intelligence model by Anthropic. This text is **not retained** by our service. Anthropic, for its part, **deletes it from its servers within 30 days** — its standard retention period, meant to detect abuse — and, under its terms for its Application Programming Interface (API), does **not use it to train** its models.
 
 **Payment.** The optional subscription is handled entirely by Apple (in-app purchase). We never see your card number; Apple only tells us whether a subscription is active.
 
